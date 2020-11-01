@@ -8,7 +8,7 @@ https://github.com/TMRh20/TMRpcm
 SD
 https://github.com/arduino-libraries/SD
 
-#How it works
+How it works:
 
 When turned on, a sound (“h.wav”) is played.
 It reads the position of the potentiometer (between values of 1 and 300 cm) and establishes the sound that should be output, informing the position of the potentiometer.
